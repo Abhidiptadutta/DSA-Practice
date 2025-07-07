@@ -1,8 +1,6 @@
-# String Reversal
-Simple C++ program to reverse a string.
+# DSA-Practice (C++)
 
-## Run
-```bash
-g++ string_reverse.cpp -o string_reverse
-./string_reverse
-```
+Basic DSA problems implemented in C++.
+
+- Two Sum
+- String Reversal
